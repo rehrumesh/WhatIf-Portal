@@ -57,6 +57,22 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfontba72.eot" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfontba72.ttf" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfontba72.woff" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfontd41d.eot" />
+    <Content Include="assets\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="assets\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="assets\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="assets\fonts\glyphicons-halflings-regulard41d.eot" />
+    <Content Include="template\assets\font-awesome\fonts\fontawesome-webfontba72.eot" />
+    <Content Include="template\assets\font-awesome\fonts\fontawesome-webfontba72.ttf" />
+    <Content Include="template\assets\font-awesome\fonts\fontawesome-webfontba72.woff" />
+    <Content Include="template\assets\font-awesome\fonts\fontawesome-webfontd41d.eot" />
+    <Content Include="template\assets\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="template\assets\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="template\assets\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="template\assets\fonts\glyphicons-halflings-regulard41d.eot" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -65,6 +81,55 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\css\bootstrap.css" />
+    <Content Include="assets\css\custom.css" />
+    <Content Include="assets\css\font-awesome.css" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfontba72.svg" />
+    <Content Include="assets\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="assets\img\1.png" />
+    <Content Include="assets\img\2.png" />
+    <Content Include="assets\img\3.png" />
+    <Content Include="assets\img\4.png" />
+    <Content Include="assets\img\find_user.png" />
+    <Content Include="assets\js\bootstrap.min.js" />
+    <Content Include="assets\js\custom.js" />
+    <Content Include="assets\js\dataTables\dataTables.bootstrap.css" />
+    <Content Include="assets\js\dataTables\dataTables.bootstrap.js" />
+    <Content Include="assets\js\dataTables\jquery.dataTables.js" />
+    <Content Include="assets\js\jquery-1.10.2.js" />
+    <Content Include="assets\js\jquery.metisMenu.js" />
+    <Content Include="assets\js\morris\morris-0.4.3.min.css" />
+    <Content Include="assets\js\morris\morris.js" />
+    <Content Include="assets\js\morris\raphael-2.1.0.min.js" />
+    <Content Include="index.html" />
+    <Content Include="template.html" />
+    <Content Include="template\assets\css\bootstrap.css" />
+    <Content Include="template\assets\css\custom.css" />
+    <Content Include="template\assets\css\font-awesome.css" />
+    <Content Include="template\assets\font-awesome\fonts\fontawesome-webfontba72.svg" />
+    <Content Include="template\assets\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="template\assets\img\1.png" />
+    <Content Include="template\assets\img\2.png" />
+    <Content Include="template\assets\img\3.png" />
+    <Content Include="template\assets\img\4.png" />
+    <Content Include="template\assets\img\find_user.png" />
+    <Content Include="template\assets\js\bootstrap.min.js" />
+    <Content Include="template\assets\js\custom.js" />
+    <Content Include="template\assets\js\dataTables\dataTables.bootstrap.css" />
+    <Content Include="template\assets\js\dataTables\dataTables.bootstrap.js" />
+    <Content Include="template\assets\js\dataTables\jquery.dataTables.js" />
+    <Content Include="template\assets\js\jquery-1.10.2.js" />
+    <Content Include="template\assets\js\jquery.metisMenu.js" />
+    <Content Include="template\assets\js\morris\morris-0.4.3.min.css" />
+    <Content Include="template\assets\js\morris\morris.js" />
+    <Content Include="template\assets\js\morris\raphael-2.1.0.min.js" />
+    <Content Include="template\blank.html" />
+    <Content Include="template\chart.html" />
+    <Content Include="template\form.html" />
+    <Content Include="template\index.html" />
+    <Content Include="template\tab-panel.html" />
+    <Content Include="template\table.html" />
+    <Content Include="template\ui.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
